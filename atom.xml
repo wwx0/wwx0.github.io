@@ -8,20 +8,11 @@
     <author>
       <name>wwx0君</name>
     </author>
-    <updated>2023-11-07T13:03:54.000Z</updated>
+    <updated>2020-12-24T04:10:45.000Z</updated>
     <entry>
-        <id>https://blog.wwx0.com/nihao/</id>
-        <title>nihao</title>
-        <link rel="alternate" href="https://blog.wwx0.com/nihao/"/>
-        <content type="html">&lt;p&gt;图片 1&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-</content>
-        <updated>2023-11-07T13:03:54.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://blog.wwx0.com/hello-world/</id>
+        <id>https://blog.wwx0.com/MarkDown/hello-world/</id>
         <title>Markdown使用指南</title>
-        <link rel="alternate" href="https://blog.wwx0.com/hello-world/"/>
+        <link rel="alternate" href="https://blog.wwx0.com/MarkDown/hello-world/"/>
         <content type="html">&lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
 &lt;p&gt;common grammar--MarkdownNote&lt;/p&gt;
 &lt;p&gt;推荐 markdown 软件&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cudHlwb3JhLmlvLw==&#34;&gt; Typora&lt;/span&gt;&lt;br /&gt;
