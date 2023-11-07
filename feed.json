@@ -22,7 +22,7 @@
             "url": "https://blog.wwx0.com/nihao/nihao/",
             "title": "Markdown使用指南",
             "date_published": "2020-12-24T04:10:45.000Z",
-            "content_html": "<h1 id=\"markdownnote\"><a class=\"anchor\" href=\"#markdownnote\">#</a> MarkdownNote</h1>\n<p>你好世界～<br>\n<img data-src=\"./avatar.png\" alt=\"asdf\"></p>\n",
+            "content_html": "<h1 id=\"markdownnote\"><a class=\"anchor\" href=\"#markdownnote\">#</a> MarkdownNote</h1>\n<p>你好世界～<br>\n<img data-src=\"avatar.png\" alt=\"asdf\"></p>\n",
             "tags": [
                 "Markdown使用指南",
                 "java"
